@@ -1,0 +1,5 @@
+EMPTY_LINE = b'\r\n\r\n'
+KAFKA_TOPIC = "KAFKA_TOPIC"
+FILTER = "FILTER"
+
+
